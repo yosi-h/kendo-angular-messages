@@ -1,10 +1,10 @@
 kendo:
   timepicker:
     # The text of the Accept button in the popup footer of the TimeList.
-    accept: מַעֲרֶכֶת
+    accept: בצע
 
     # The label of the Accept button in the popup footer of the TimeList.
-    acceptLabel: מַעֲרֶכֶת
+    acceptLabel: בצע
 
     # The text of the Cancel button in the popup footer of the TimeList.
     cancel: בטל
